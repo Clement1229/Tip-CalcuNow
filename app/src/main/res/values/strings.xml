@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip CalcuNow</string>
+    <string name="bill_hint">Enter your bill here...</string>
+    <string name="calculate">Calculate Your Tip</string>
+    <string name="tip_low">13%</string>
+    <string name="tip_mid">15%</string>
+    <string name="tip_high">18%</string>
+</resources>
